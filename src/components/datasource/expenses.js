@@ -7,7 +7,7 @@ const expenses = [
   },
   {
     id: "2",
-    title: "Buy Ticker",
+    title: "Buy Ticket",
     amount: 6500,
     date: new Date(),
   },
